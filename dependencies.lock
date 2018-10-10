@@ -1,0 +1,56 @@
+{
+    "compile": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "compileClasspath": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "default": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "runtime": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "runtimeClasspath": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "testCompile": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "testCompileClasspath": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "testRuntime": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    },
+    "testRuntimeClasspath": {
+        "com.netflix.ndbench:ndbench-cass-plugins": {
+            "locked": "0.3.17",
+            "requested": "0.+"
+        }
+    }
+}
