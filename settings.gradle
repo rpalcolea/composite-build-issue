@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'composite-build-issue'
+
+includeBuild '../../Netflix/ndbench'
