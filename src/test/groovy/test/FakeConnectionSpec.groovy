@@ -12,6 +12,6 @@ class FakeConnectionSpec extends Specification {
         String value = fakeConnection.getFakeConnection()
 
         then:
-        value == "Cluster Name - null : Keyspace Name - null : CF Name - null ::: ReadCL - null : WriteCL - null "
+        value == "FAKE CONNECTION"
     }
 }
